@@ -1,7 +1,7 @@
 # Jupyter Desktop Server
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yuvipanda/jupyter-desktop-server/master?urlpath=desktop)
 
-https://notebooks.gesis.org/binder/v2/gh/yuvipanda/jupyter-desktop-server/master?urlpath=desktop
+https://notebooks.gesis.org/binder/v2/gh/yuvipanda/jupyter-desktop-server-java/master?urlpath=desktop
 
 Run XFCE (or other desktop environments) on a JupyterHub.
 

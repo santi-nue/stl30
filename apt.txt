@@ -1,5 +1,8 @@
 dbus-x11
 firefox
+maven
+gradle
+openjdk-12-jdk
 xfce4
 xfce4-panel
 xfce4-session

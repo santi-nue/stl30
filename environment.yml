@@ -1,6 +1,7 @@
 channels:
   - manics
 dependencies:
+  - python=3.9.7
   - websockify
   - pip:
     - .

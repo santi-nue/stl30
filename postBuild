@@ -1,1 +1,1 @@
-python -m pip install PyQt6 --user
+# python -m pip install PyQt6 --user

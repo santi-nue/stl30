@@ -3,6 +3,7 @@ channels:
 dependencies:
   - python=3.9.7
   - websockify
+  - testresources
   - pip:
     - autopep8==1.6.0
     - pycodestyle==2.8.0
